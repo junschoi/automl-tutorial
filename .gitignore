@@ -1,0 +1,6 @@
+notebooks/config.json
+notebooks/.azureml
+notebooks/automl.log
+notebooks/azureml_automl.log
+venv/
+.idea/
